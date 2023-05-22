@@ -1,0 +1,72 @@
+body{
+  height: 100vh;
+  background: url(image.jpg) no-repeat center center/cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: GOld;
+}
+
+
+#add-task-container{
+  width: 350px;
+  padding: 20px 10px;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 0 3px;
+  display: flex;
+  margin-bottom: 20px;
+  border: 1px solid;
+  background-color: rgb(244, 208, 5);
+}
+
+input{
+  flex: 5;
+  margin-right: 10px;
+  border-radius: 10px;
+  font-size: 1.2rem;
+  padding: 5px;
+  border: 1px solid rgb(185, 185, 185);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+
+
+.delete {
+  margin-left: 15px;
+}
+
+
+svg{
+  color: black;
+  background-color: white;
+  width: 25px;
+  height: 4vh;
+}
+
+
+button{  
+  flex: 1;
+  border-radius: 10px;
+  background-color: white;
+  cursor: pointer;
+  border: 1px solid gold;
+}
+  
+
+.task{
+  width: 250px;
+  padding: 5px;
+  margin-bottom: 5px;
+
+  
+}
+
+.task li {
+  list-style: none;
+  flex: 4;
+  padding: 5px;
+  font-size: 1.4rem;
+  margin: 10px;
+}
+
