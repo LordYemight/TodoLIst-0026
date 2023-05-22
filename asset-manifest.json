@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TodoLIst-0026/static/css/main.1c59c76b.css",
+    "main.js": "/TodoLIst-0026/static/js/main.30076e4a.js",
+    "static/media/image.jpg": "/TodoLIst-0026/static/media/image.98a164410fb4d126d36e.jpg",
+    "index.html": "/TodoLIst-0026/index.html",
+    "main.1c59c76b.css.map": "/TodoLIst-0026/static/css/main.1c59c76b.css.map",
+    "main.30076e4a.js.map": "/TodoLIst-0026/static/js/main.30076e4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c59c76b.css",
+    "static/js/main.30076e4a.js"
+  ]
+}
